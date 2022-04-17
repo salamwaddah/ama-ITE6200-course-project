@@ -3,3 +3,5 @@ A web developer from Morocco. Lives in Dubai, UAE! This file is being edited fro
 This line is added by Sublime.
 
 This line is added by WebStorm IDE.
+
+This is a new line.
